@@ -6,7 +6,7 @@ Apart from coding I like playing cricket 🏏, badminton 🏸 and chess ♟️.
 # Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=PranjalRoy123&hide=issues&show_icons=true&theme=gotham)
 
-![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalRoy123&layout=compact&bg_color=0c1014&text_color=98d0cd)
+![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalRoy123&layout=compact&theme=gotham)bg_color=0c1014&text_color=98d0cd
 
 # Reach out to me
 [Chill Discord server](https://discord.gg/wx7UwRzjRW) Join now!! 🙂
