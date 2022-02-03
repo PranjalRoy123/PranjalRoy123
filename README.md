@@ -12,7 +12,7 @@ Apart from coding I like playing cricket 🏏, badminton 🏸 and chess ♟️.
 [Chill Discord server](https://discord.gg/wx7UwRzjRW) Join now!! 🙂
 
 # Currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Sciencium&text_color=dbdbdb&bg_color=191919)](https://github.com/Code-Done-Right/Sciencium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Sciencium&theme=gotham)](https://github.com/Code-Done-Right/Sciencium)
 
 <!--
 **PranjalRoy123/PranjalRoy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
