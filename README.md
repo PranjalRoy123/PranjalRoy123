@@ -6,7 +6,7 @@ Apart from coding I like playing cricket 🏏, badminton 🏸 and chess ♟️.
 # Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=PranjalRoy123&hide=issues&show_icons=true&theme=gotham)
 
-![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalRoy123&layout=compact&bg_color=0c1014&text_color=153a35)
+![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalRoy123&layout=compact&bg_color=0c1014&text_color=98d0cd)
 <!--
 **PranjalRoy123/PranjalRoy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
