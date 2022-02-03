@@ -4,7 +4,9 @@ Hello there 👋🏼! I'm Pranjal Roy, a 13 year old programmer 🙂. My coding 
 Apart from coding I like playing cricket 🏏, badminton 🏸 and chess ♟️.
 
 # Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=PranjalRoy123&hide=issues&show_icons=true&theme=gotham)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=PranjalRoy123&hide=issues&show_icons=true&theme=gotham)
+
+![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalRoy123&bg_color=191919&text_color=dbdbdb)
 <!--
 **PranjalRoy123/PranjalRoy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
