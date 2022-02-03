@@ -1,5 +1,10 @@
-### Hi there 👋
+# About me 😀
 
+Hello there 👋🏼! I'm Pranjal Roy, a 13 year old programmer 🙂. My coding skills include Python, HTML , CSS, Javascript, Node.Js, Express.Js and React.js
+Apart from coding I like playing cricket 🏏, badminton 🏸 and chess ♟️.
+
+# Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=PranjalRoy123&hide=issues&show_icons=true&theme=gotham)
 <!--
 **PranjalRoy123/PranjalRoy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
