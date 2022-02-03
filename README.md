@@ -6,13 +6,13 @@ Apart from coding I like playing cricket 🏏, badminton 🏸 and chess ♟️.
 # Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=PranjalRoy123&hide=issues&show_icons=true&theme=gotham)
 
-![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalRoy123&layout=compact&theme=gotham)bg_color=0c1014&text_color=98d0cd
-
-# Reach out to me
-[Chill Discord server](https://discord.gg/wx7UwRzjRW) Join now!! 🙂
+![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalRoy123&layout=compact&theme=gotham)
 
 # Currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Code-Done-Right&repo=Sciencium&theme=gotham)](https://github.com/Code-Done-Right/Sciencium)
+
+# Reach out to me
+[Chill Discord server](https://discord.gg/wx7UwRzjRW) Join now!! 🙂
 
 <!--
 **PranjalRoy123/PranjalRoy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
